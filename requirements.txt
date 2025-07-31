@@ -3,3 +3,6 @@ time
 datetime
 random
 google.generativeai as genai
+pandas as pd
+chromadb
+warnings
